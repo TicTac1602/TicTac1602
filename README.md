@@ -5,7 +5,6 @@ IT engineer student in EPITA
 ----------------------------
 
 * 🌍  I'm based in Lyon
-* 😄  Pronouns: He/Him
 * 🖥️  See my portfolio at [emiltoulouse.com](http://emiltoulouse.com)
 * ✉️  You can contact me at [emil.toulouse@epita.fr](mailto:emil.toulouse@epita.fr)
 * 🚀  I'm currently working on [Finishing some front end challenges](http://www.frontendmentor.io/profile/TicTac1602)
