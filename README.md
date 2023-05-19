@@ -9,7 +9,7 @@ IT engineer student in EPITA
 * ✉️  You can contact me at [emil.toulouse@epita.fr](mailto:emil.toulouse@epita.fr)
 * 🚀  I'm currently working on [Finishing some front end challenges](http://www.frontendmentor.io/profile/TicTac1602)
 * 🧠  I'm learning C, Java, Javascript, C++, HTML, CSS, JS framework
-* 🤝  I'm open to collaborating on any project that I can handle
+* 🤝  I'm open to collaborating on any project.
 
 ### Skills
 
